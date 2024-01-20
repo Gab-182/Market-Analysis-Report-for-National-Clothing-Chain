@@ -2,6 +2,10 @@
 
 <p>In this repository, you'll find a detailed market analysis report for a national clothing chain using Power BI. The analysis leverages custom M and DAX codes to extract insights from customer data and US Census Bureau statistics.</p>
 
+
+
+<p align="center"><img width="738" alt="Screenshot 2024-01-20 at 4 05 48 PM" src="https://github.com/Gab-182/Market-Analysis-Report-for-National-Clothing-Chain/assets/83855149/e6b4cc9a-dccf-4893-a9f7-d25fe1f516d7"></p>
+
 ---------------------------------------
 
 <h3 align="center">General Analysis</h3>
